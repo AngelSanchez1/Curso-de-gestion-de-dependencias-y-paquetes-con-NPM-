@@ -11,6 +11,15 @@
     "node",
     "package"
   ],
-  "author": "Angel Sanchez Cauich asanchezcaui@gmail.com",
-  "license": "ISC"
+  "author": "Angel Sanchez Cauich <asanchezcaui@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.17.0"
+  }
 }
